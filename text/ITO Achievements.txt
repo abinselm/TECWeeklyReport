@@ -1,0 +1,17 @@
+Restored the Internet connection in the warehouse after fixing the microwave link. 
+The network upgrade works in guesthouse 1 are ongoing. The new rack cabinet is under installation and new switches with newer models will be installed for better performance.
+Conducted an assessment about moving TEC solution in free zone (two prefabs and tower). The plan, including moving the tower, is ready and will be implemented very soon.
+The proposed connectivity plan that should be implemented by the warehouse operator has been prepared and shared.
+The compliance oversight tracker report has been updated and shared with the focal point.
+A mission to Mukalla is ongoing to conduct assessment about the required TEC solution after closing the UN hub and changing it to WFP office only.
+Supported programme unit for two-day workshop in coral hotel and other meeting.
+Increased the storage capacity after getting one more container in the warehouse to store IT equipment.
+Ongoing exercise to reorganize the assets in the IT storage locations.
+Resolved the connectivity issue in Mocha impacting Microsoft Teams calls ensuring seamless communication. Completed the setup and configuration of the new cloud-based user manager, hosted on AWS, to streamline ETC user management in the hub.
+Coordinated with the supplier to start the fibre and microwave works in silos office after receiving the approval.
+The pilot phase for the Mocha UN Hub Booking Solution (Meeting Room Booking) has been successfully completed. Final steps include configuring the necessary rules for the Hub Manager account to enable full booking management.
+TEC team has ensured uninterrupted operations at the UN Hub, delivering consistent support to all users and guests. Ahmed BINSELM continued his role as IT focal point in the hub.
+Following up with the supplier to fix the fire suppression system for server room in building A.
+Ongoing TESS mission from April 21 to May 4, 2025, to assess UN Security Communications Systems in southern Yemen.
+Coordinating with government liaison officer and Aden management to request for import approval for the shipment in Dubai for TEC and T&DS.  
+The total tickets that were closed this week are 230 tickets while 11 are pending.
